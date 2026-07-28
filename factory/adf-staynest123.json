@@ -1,0 +1,15 @@
+{
+	"name": "adf-staynest123",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "e1237e2e-310b-4b24-bd60-3fda0b21ddbd",
+		"tenantId": "ecf6fccb-4a2d-4cf1-b0d1-5741772a95c2"
+	}
+}
